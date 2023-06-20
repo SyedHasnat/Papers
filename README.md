@@ -15,7 +15,7 @@ Hybrid of LSTM and Modified Split Convolution (LSTM-SC)
 ## Forecasting
 single-step and multi-step STLF
 ## Code Files
-All the code files for the paper "Multi-Horizon Short-Term Load Forecasting Using Hybrid of LSTM and Modified Split Convolution" are availible in the folder "PeerJ".
+All the code files for the paper "Multi-Horizon Short-Term Load Forecasting Using Hybrid of LSTM and Modified Split Convolution" are availible in the folder "PeerJ" as well in Code-Files, both the folders have the same code.
 ## Installation
 To run code for paper, follow these steps:
 
