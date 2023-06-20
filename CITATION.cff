@@ -3,6 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Syed Muahammad"
   given-names: "Hasanat"
+- family-names: "Irshad"
+  given-names: "Ullah"
 title: "Multi-Horizon Short-Term Load Forecasting Using Hybrid of LSTM and Modified Split Convolution"
 version: 2.0.4
 doi: 10.5281/zenodo.8058687
