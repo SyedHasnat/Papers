@@ -1,3 +1,6 @@
+# DOI
+[![DOI](https://zenodo.org/badge/643206708.svg)](https://zenodo.org/badge/latestdoi/643206708) 
+
 # Title
 Multi-Horizon Short-Term Load Forecasting Using Hybrid of LSTM and Modified Split Convolution
 # Abstract
@@ -11,7 +14,5 @@ Hybrid of LSTM and Modified Split Convolution (LSTM-SC)
 - National Transmission and Dispatch Company (NTDC)
 # Forecasting
 single-step and multi-step STLF
-# DOI
-[![DOI](https://zenodo.org/badge/643206708.svg)](https://zenodo.org/badge/latestdoi/643206708) 
 
 
