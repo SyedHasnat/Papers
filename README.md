@@ -8,7 +8,7 @@ Precise Short-Term Load Forecasting (STLF) plays a crucial role in the smooth op
 ## Network Architecture
 Hybrid of LSTM and Modified Split Convolution (LSTM-SC)
 ![alt text](https://github.com/SyedHasnat/Papers/blob/main/Figure%205%20complete_model.png)
-## Dasets Used
+## Datasets Used
 - Independent System Operator New England (ISO-NE)
 - American Electric Power (AEP)
 - National Transmission and Dispatch Company (NTDC)
