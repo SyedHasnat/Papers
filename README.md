@@ -1,3 +1,7 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-horizon-short-term-load-forecasting/univariate-time-series-forecasting-on-aep)](https://paperswithcode.com/sota/univariate-time-series-forecasting-on-aep?p=multi-horizon-short-term-load-forecasting)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-horizon-short-term-load-forecasting/multivariate-time-series-forecasting-on-aep)](https://paperswithcode.com/sota/multivariate-time-series-forecasting-on-aep?p=multi-horizon-short-term-load-forecasting)
+
 # DOI
 [![DOI](https://zenodo.org/badge/643206708.svg)](https://zenodo.org/badge/latestdoi/643206708) 
 
