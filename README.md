@@ -72,7 +72,7 @@ If you have any questions or need further assistance, you can reach me via:
 - Email: [eng.syed.its@gmail.com](mailto:eng.syed.its@gmail.com)
 - LinkedIn: [Syed Muhammad Hasanat](https://www.linkedin.com/in/syed-muhammad-hasanat-a56562204/)
 
-Happy forecasting! 🌟
+Happy Forecasting! 🌟
 
 
 
